@@ -72,15 +72,10 @@ async def process_session(client, groups, session_name, saved_message_id, saved_
 # Main function
 async def main():
     print(Fore.RED + r"""
-       ______  __  _____    _   __
-      / / __ \/ / / /   |  / | / /
- __  / / / / / /_/ / /| | /  |/ / 
-/ /_/ / /_/ / __  / ___ |/ /|  /  
-\____/\____/_/ /_/_/  |_/_/ |_/   
-                                  
+ Mr x💣    
 """ + Style.RESET_ALL)
 
-    print(Fore.GREEN + "Script made by @JohanOGU" + Style.RESET_ALL)
+    print(Fore.GREEN + "Script made by @mrx" + Style.RESET_ALL)
 
     print(Fore.CYAN + "Choose an option:" + Style.RESET_ALL)
     print("1 - Auto forward (forwards your last saved msg)")
